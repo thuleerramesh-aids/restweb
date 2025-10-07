@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:06.10.2025
+## Date:07.10.2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -211,7 +211,13 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 190729.png>)
+
+
+
+
+<img width="1142" height="545" alt="Screenshot 2025-10-07 221152" src="https://github.com/user-attachments/assets/d537dd4d-d8ee-4d5d-ae99-f0d55fc121d2" />
+
+
 
 
 ## RESULT:
